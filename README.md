@@ -1,5 +1,5 @@
-This is a Database Password Rotation Script in Python
-This is a DevOps & Security Automation project where we automate password rotation for Mysql using Python and subprocess.
+MySQL Database Password Rotation Script
+This is a DevOps & Security Automation project that automates password rotation for MySQL using Python and subprocess. This is a Database Password Rotation Script in Python.
 
 📌 Project Overview
 What it does:
