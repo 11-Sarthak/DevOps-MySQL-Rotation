@@ -29,7 +29,7 @@ This script could be integrated into CI/CD pipelines for database access managem
 
 Required Libraries:
 
-subprocess → To execute MongoDB queries
+subprocess → To execute Mysql queries
 string, secrets → To generate random passwords
 
 
